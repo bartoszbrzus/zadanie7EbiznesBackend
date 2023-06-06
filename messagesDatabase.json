@@ -1,0 +1,20 @@
+{
+    "messages": [
+        {
+            "side": "right",
+            "message": "hello there"
+        },
+        {
+            "side": "left",
+            "message": "Hi, how are you?"
+        },
+        {
+            "side": "right",
+            "message": "Tell me about cat"
+        },
+        {
+            "side": "left",
+            "message": "Cats, scientifically known as Felis catus, are domesticated mammals that are commonly kept as pets. They are part of the Felidae family, which also includes other big and small cats like lions, tigers, and leopards."
+        }
+    ]
+}
